@@ -1,0 +1,8 @@
+name = "subbb"
+main = "src/worker.ts"
+compatibility_date = "2024-05-29"
+compatibility_flags = ["nodejs_compat"]
+
+kv_namespaces = [
+  { binding = "settings", id = "d383dd1f6a8945c4ba04c91403e35b94" }
+]
